@@ -1,7 +1,6 @@
 #pragma once
 #include<iostream>
 #include"Coordinates.h"
-#include"MapPoint.h"
 
 class Coordinates;
 
